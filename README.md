@@ -1,9 +1,19 @@
-### Hi there 👋
+### Hi there 👋, I'm Madelain!
 
-<!--
-**madiliu/madiliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an interdisplinary software engineer studying Computer Science at Columbia University who bring a strong finance background supplemented by two years of software development experience. 
 
-Here are some ideas to get you started:
+* 🦁 I am pursuing MS in Computer Science at Columbia University
+* 🇹🇼 I obtained my BBA major in International Business at National Taiwan University
+* 🇮🇹 I did one semester exchange at Bocconi University 
+* 👩🏻‍💻 I worked as a Software Engineer at [OTSO Fintech](https://www.otsogroup.com/) and [eftPayments](https://www.eftpay.com.hk/en/home/), where I developed features for a social trading platform, [SofinX](https://broker.sofinx.com/), and an ERP system, separately
+* 🏦 Prior to shifting to software engineering field, I worked at J.P. Morgran's Investment Banking and UBS Investment Banking for four years.
+
+#### About Me
+
+#### Connect with me:
+![image](https://github.com/madiliu/madiliu/assets/90917906/c62e9c2a-bc3b-4f0b-84de-4bd6e755f864)
+
+#### Skills
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
