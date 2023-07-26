@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Madelain!
+## Hi there 👋, I'm Madelain!
 
 I am an interdisplinary software engineer studying Computer Science at Columbia University who bring a strong finance background supplemented by two years of software development experience. 
 
