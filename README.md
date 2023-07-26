@@ -3,7 +3,7 @@
 I am an interdisplinary software engineer studying Computer Science at Columbia University who bring a strong finance background supplemented by two years of software development experience. Recognized as a team player with proven project management and problem-solving abilities, I am committed to continuous learning and growth in this ever-evolving field.
 
 ### About Me
-* 🦁 I am pursuing MS in Computer Science at [Columbia University in the city of New York](https://www.columbia.edu/).
+* 🇺🇸 I am pursuing MS in Computer Science at [Columbia University in the city of New York](https://www.columbia.edu/).
 * 🇹🇼 I obtained my BBA degree in International Business at [National Taiwan University](https://www.ntu.edu.tw/english/).
 * 🇮🇹 I did one semester exchange majoring in finance at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/). 
 * 👩🏻‍💻 I worked as a Software Engineer at [OTSO Fintech](https://www.otsogroup.com/) and [eftPayments](https://www.eftpay.com.hk/en/home/), where I developed a social trading platform, [SofinX](https://broker.sofinx.com/), and an ERP system, separately.
