@@ -12,6 +12,12 @@ I am an interdisplinary software engineer studying Computer Science at Columbia 
 * 🎤 I love backpacking, combat, and karaoke 
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/madelainliu/" target="blank"><img aligh="center" src="https://github.com/madiliu/madiliu/assets/90917906/c62e9c2a-bc3b-4f0b-84de-4bd6e755f864" alt="madiliu_linkedin" width="50" /></a>
+<a href="https://www.linkedin.com/in/madelainliu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeffchiu2020" height="30" width="40" /></a>
 
-### Skills
+### Programming Language
+<p align="left"> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="aws" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="redis" width="40" height="40"/> </a> </p>
+
