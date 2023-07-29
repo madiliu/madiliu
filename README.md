@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Madelain!
+## Hi there 👋, I'm Chia-Mei (Madelain)!
 
 I am an interdisplinary software engineer studying Computer Science at Columbia University who bring a strong finance background supplemented by two years of software development experience. Recognized as a team player with proven project management and problem-solving abilities, I am committed to continuous learning and growth in this ever-evolving field.
 
