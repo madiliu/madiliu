@@ -7,7 +7,7 @@ I am an interdisplinary software engineer studying Computer Science at Columbia 
 * 🇹🇼 I obtained my BBA degree in International Business at [National Taiwan University](https://www.ntu.edu.tw/english/).
 * 🇮🇹 I did one semester exchange majoring in finance at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/). 
 * 👩🏻‍💻 I worked as a Software Engineer at [OTSO Fintech](https://www.otsogroup.com/) and [eftPayments](https://www.eftpay.com.hk/en/home/), where I developed a social trading platform, [SofinX](https://broker.sofinx.com/), and an ERP system, separately.
-* 🏦 I worked at [J.P. Morgran's Investment Banking](https://www.jpmorgan.com/solutions/cib/investment-banking) and [UBS Investment Banking](https://www.ubs.com/global/en/investment-bank.html) for four years prior to shifting to the software engineering field, .
+* 🏦 I worked at [J.P. Morgran's Investment Banking](https://www.jpmorgan.com/solutions/cib/investment-banking) and [UBS Investment Banking](https://www.ubs.com/global/en/investment-bank.html) for four years prior to shifting to the software engineering field.
 * 🥊 I love body combat, weight training and karaoke.
 
 ### Connect with me
