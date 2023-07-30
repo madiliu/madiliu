@@ -13,7 +13,7 @@ I am an interdisplinary software engineer studying Computer Science at Columbia 
 ### Connect with me
 <a href="https://www.linkedin.com/in/madelainliu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeffchiu2020" height="30" width="40" /></a>
 
-### Programming Language
+### Programming Languages
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="aws" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
