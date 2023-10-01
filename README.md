@@ -18,7 +18,9 @@ I am an interdisplinary software engineer studying Computer Science at Columbia 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="aws" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="redis" width="40" height="40"/> </a> </p>
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="redis" width="40" height="40"/> </a> 
+  <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://developers.redhat.com/sites/default/files/styles/share/public/blog/2020/06/C_C_featuredimage.png?itok=wkHvW2e-" alt="redis" width="80" height="40"/> </a> 
+</p>
 
 ### Stats
 <p align="center">
