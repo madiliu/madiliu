@@ -22,9 +22,9 @@ I am an interdisplinary software engineer studying Computer Science at Columbia 
   <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://developers.redhat.com/sites/default/files/styles/share/public/blog/2020/06/C_C_featuredimage.png?itok=wkHvW2e-" alt="redis" width="80" height="40"/> </a> 
 </p>
 
-### Stats
+
 <p align="center">
-<!--   <img width=300 src="https://github.com/madiliu/madiliu/assets/90917906/06b9581a-200f-4a48-a433-cfcb55ae14f9"/> -->
+<!--   <img width=300 src="https://github.com/madiliu/madiliu/assets/90917906/06b9581a-200f-4a48-a433-cfcb55ae14f9"/>
   <img align=left width=300 src="https://github.com/madiliu/madiliu/assets/90917906/0dd10a48-5c40-4617-b40b-f3e407344a4f" />
-  <img align=left width=300 src="https://github.com/madiliu/madiliu/assets/90917906/fe79082a-59c7-4499-93a1-58aee601bb1c"/>
+  <img align=left width=300 src="https://github.com/madiliu/madiliu/assets/90917906/fe79082a-59c7-4499-93a1-58aee601bb1c"/> -->
 </p>
